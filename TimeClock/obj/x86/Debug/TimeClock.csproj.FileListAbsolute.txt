@@ -1,0 +1,9 @@
+C:\Users\kevin\TimeClock-Build\TimeClock.exe
+C:\Users\kevin\TimeClock-Build\TimeClock.pdb
+C:\Users\kevin\TimeClock\TimeClock\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\kevin\TimeClock\TimeClock\obj\x86\Debug\TimeClock.Form1.resources
+C:\Users\kevin\TimeClock\TimeClock\obj\x86\Debug\TimeClock.Properties.Resources.resources
+C:\Users\kevin\TimeClock\TimeClock\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\kevin\TimeClock\TimeClock\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\kevin\TimeClock\TimeClock\obj\x86\Debug\TimeClock.exe
+C:\Users\kevin\TimeClock\TimeClock\obj\x86\Debug\TimeClock.pdb
