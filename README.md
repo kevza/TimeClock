@@ -32,5 +32,11 @@ Installation :
 
 3: 	Setup users with user names and passwords from the web interface.
 
-  
+Note:
+This project was put together for a small business in a few hours over a weekend,
+primarily because I keep forgetting how many hours I've put in at work.
+I have not put a lot of thought or effort into security so if your intention is 
+to use this in a larger organization you will need to make sure this is actually 
+suitiable or modify it such that it is.
+
 
