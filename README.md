@@ -28,7 +28,7 @@ Installation :
 	adjust the tc_settings.inf file to reflect the server location and login
 	details.
 	I have built the TimeClock client using monodevelop, it should work fine
-	with visual studio as well althought I havent tested it there.
+	with visual studio as well although I haven't tested it there.
 
 3: 	Setup users with user names and passwords from the web interface.
 
